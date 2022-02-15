@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I am **SimonOkello**. I write code.✨
+ I am **Simon Okello**. I write APIs.✨
 
 Here are some ideas to get you started:
 
