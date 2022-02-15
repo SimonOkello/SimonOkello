@@ -19,3 +19,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonOkello&layout=compact&theme=merko&langs_count=10)](https://github.com/wechulimaven/github-readme-stats)
+
+### Trophies
+<img src='https://github-profile-trophy.vercel.app/?username=enriquejuan2&theme=tokyonight' >
