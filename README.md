@@ -1,6 +1,6 @@
 ### Simon Okello 👋
 
- I am Write.✨
+ I write code.✨
 
 <!-- Here are some ideas to get you started:
 
