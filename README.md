@@ -1,8 +1,8 @@
-### Hi there 👋
+### Simon Okello 👋
 
- I am **Simon Okello**. I write APIs.✨
+ I am Write.✨
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 ![](https://komarev.com/ghpvc/?username=wechulimaven&color=green)
 
-![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=wechulimaven&theme=merko&layout=compact&count_private=true&show_icons=true)
+![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=SimonOkello&theme=merko&layout=compact&count_private=true&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wechulimaven&layout=compact&theme=merko&langs_count=10)](https://github.com/wechulimaven/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonOkello&layout=compact&theme=merko&langs_count=10)](https://github.com/wechulimaven/github-readme-stats)
