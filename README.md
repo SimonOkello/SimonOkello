@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**SimonOkello/SimonOkello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am **SimonOkello**. I write code.✨
 
 Here are some ideas to get you started:
 
