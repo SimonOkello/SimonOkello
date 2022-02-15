@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![](https://komarev.com/ghpvc/?username=wechulimaven&color=green)
+![](https://komarev.com/ghpvc/?username=SimonOkello&color=green)
 
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=SimonOkello&theme=merko&layout=compact&count_private=true&show_icons=true)
 
@@ -21,4 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonOkello&layout=compact&theme=merko&langs_count=10)](https://github.com/SimonOkello/github-readme-stats)
 
 
-![Trophies](<img src='https://github-profile-trophy.vercel.app/?username=SimonOkello&theme=tokyonight' >)
+<img src='https://github-profile-trophy.vercel.app/?username=SimonOkello&theme=tokyonight' >
