@@ -18,7 +18,7 @@
 ![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=SimonOkello&theme=merko&layout=compact&count_private=true&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonOkello&layout=compact&theme=merko&langs_count=10)](https://github.com/wechulimaven/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonOkello&layout=compact&theme=merko&langs_count=10)](https://github.com/SimonOkello/github-readme-stats)
 
-### Trophies
-<img src='https://github-profile-trophy.vercel.app/?username=SimonOkello&theme=tokyonight' >
+
+![Trophies](<img src='https://github-profile-trophy.vercel.app/?username=SimonOkello&theme=tokyonight' >)
