@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on REST APIs(Django)
+- 🔭 I’m currently working on REST APIs(Django).
  <!-- - 🌱 I’m currently learning Vue JS -->
-- 👯 I’m looking to collaborate on Django REST APIs
+- 👯 I’m looking to collaborate on Django REST APIs Projects.
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
