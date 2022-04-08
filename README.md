@@ -1,6 +1,6 @@
 ### Simon Okello 👋
 
- I write code.✨
+ I write REST APIs using Django and Node JS.✨
 
 
 
