@@ -1,7 +1,8 @@
 ### Simon Okello 👋
 
- I write REST APIs using Django and Node JS.✨
-
+ Backend Software Engineer.✨
+ 
+ #APIs #FastAPI #Django #NodeJS 
 
 
 - 🔭 I’m currently working on REST APIs(Django,FastAPI & NodeJs).
