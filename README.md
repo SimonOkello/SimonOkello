@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently working on REST APIs(Django).
- <!-- - 🌱 I’m currently learning Vue JS -->
-- 👯 I’m looking to collaborate on Django REST APIs Projects.
-<!-- - 🤔 I’m looking for help with 
+- 🔭 I’m currently working on REST APIs(Django,FastAPI & NodeJs).
+- 🌱 I’m currently learning React JS
+- 👯 I’m looking to collaborate on REST APIs Projects.
+- 🤔 I’m looking for help with React JS 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
